@@ -1,0 +1,2 @@
+# IGUSEMotonomsistemler
+proje denemelerim
